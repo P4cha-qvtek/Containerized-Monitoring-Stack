@@ -43,7 +43,7 @@ docker run -d \
 
 ### 1. Clone the repo
 ```bash
-git clone [https://github.com/yourusername/monitoring-stack.git](https://github.com/P4cha-qvtek/Containerized-Monitoring-Stack.git)
+git clone https://github.com/P4cha-qvtek/Containerized-Monitoring-Stack.git
 cd monitoring-stack
 ```
 
