@@ -16,8 +16,8 @@ Remote Server (EC2)             Local Machine
 
 ## Stack
 
-| Tool || Purpose |
-
+| Tool | Purpose |
+|---|---|
 | **Docker Compose** | Container orchestration |
 | **Prometheus** | Metrics collection |
 | **Grafana** | Dashboard visualization |
